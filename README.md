@@ -14,10 +14,6 @@ Increased my skill in making a nice website out of simple **HTML** and **CSS**.
 This Project has been archived and closed<br/>
 The site is unreleased due to recent updates
 
-## Demo
+## Preview
 
-<figure class="video_container">
-  <video allowfullscreen="true" autoplay muted loop>
-    <source src="/demo.mp4" type="video/mp4">
-  </video>
-</figure>
+<img src="/demo.gif" alt="Preview" width=900/>
